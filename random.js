@@ -1,4 +1,4 @@
-let repeats = 10000;
+let repeats = 100;
 let sum = 0;
 
 for(i = 0; i < repeats; i++) {
